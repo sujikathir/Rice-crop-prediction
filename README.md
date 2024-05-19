@@ -9,15 +9,22 @@ Crop Forecasting: Forecast rice crop yields in identified areas using climate an
 
 ### Data Sources:
 Microsoft's Planetary Computer
+
 Sentinel-1 (radar)
+
 Sentinel-2 (optical)
+
 Landsat (optical)
 
 ### Technologies Used:
 Python
+
 Machine Learning Libraries (e.g., TensorFlow, scikit-learn)
+
 Data Processing Libraries (e.g., pandas, NumPy)
+
 Satellite Image Processing Libraries (e.g., rasterio)
+
 Git and GitHub for version control
 
 ### Target Audience:
