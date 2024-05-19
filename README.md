@@ -5,6 +5,7 @@ This project addresses the global issue of hunger by leveraging machine learning
 
 ### Key Features:
 Crop Identification: Utilize machine learning models to analyze satellite imagery and accurately identify areas where rice is cultivated.
+
 Crop Forecasting: Forecast rice crop yields in identified areas using climate and satellite data, providing insights into the impact of climate change on agricultural productivity.
 
 ### Data Sources:
@@ -29,7 +30,9 @@ Git and GitHub for version control
 
 ### Target Audience:
 Researchers and scientists interested in agricultural modeling and food security.
+
 Developers looking to contribute to projects addressing global challenges.
+
 Policy-makers and organizations involved in food security initiatives.
 
 ### Why It Matters:
